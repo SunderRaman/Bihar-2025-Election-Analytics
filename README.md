@@ -7,6 +7,15 @@ The project is intended strictly for research, educational, and analytical purpo
 No attempt is made to bypass security controls, overload servers, or access non-public or restricted data.
 
 # Bihar-2025-Election-Analytics
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/SunderRaman/Bihar-2025-Election-Analytics)
+![Repo Size](https://img.shields.io/github/repo-size/SunderRaman/Bihar-2025-Election-Analytics)
+
+
 This project performs a comprehensive, constituency-level analysis of the Bihar Assembly Elections 2025, covering:
 ✔ Automated data extraction  
 ✔ PDF → CSV district mapping  
