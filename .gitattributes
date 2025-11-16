@@ -1,0 +1,20 @@
+# Normalize all text files to LF (avoids CRLF warnings on Windows)
+* text=auto eol=lf
+
+# Treat Jupyter notebooks as binary to avoid merge conflicts
+*.ipynb   binary
+
+# Keep CSV files as text but normalized to LF
+*.csv     text eol=lf
+
+# Keep markdown files as UTF-8 text
+*.md      text eol=lf
+
+# Images and charts should be binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.svg     binary
+
+# Prevent Git from changing line endings accidentally
+*.py      text eol=lf
