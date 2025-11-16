@@ -1,3 +1,11 @@
+### ⚖️ Legal & Ethical Use
+
+This project uses publicly available election data from the Election Commission of India.  
+All data collection is rate-limited (2–5 seconds per request), processed in small batches (≤ 40 pages at a time), and includes intentional breaks between batches.  
+The project is intended strictly for research, educational, and analytical purposes.
+
+No attempt is made to bypass security controls, overload servers, or access non-public or restricted data.
+
 # Bihar-2025-Election-Analytics
 This project performs a comprehensive, constituency-level analysis of the Bihar Assembly Elections 2025, covering:
 ✔ Automated data extraction  
